@@ -1,5 +1,5 @@
 
-![best game data-driven prediction](/Users/kli/Library/CloudStorage/OneDrive-Personal/DATA ANALYSIS/GIT/data-portfolio/best selling game prediction/misc/game-prediction.png)
+![best game data-driven prediction](./misc/game-prediction.png)
 
 
 **Цель этого исследования** - выявить закономерности, определяющие успешность игры и дать общие рекомендации по тому на чем делать фокус при планировании рекламных компаний на будущий год.
